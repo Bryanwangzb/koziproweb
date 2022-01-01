@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-koziproweb-dev-161712-authRole",
+      "UnauthRoleArn": "arn:aws:iam::155830630328:role/amplify-koziproweb-dev-161712-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::155830630328:role/amplify-koziproweb-dev-161712-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-koziproweb-dev-161712-deployment",
+      "UnauthRoleName": "amplify-koziproweb-dev-161712-unauthRole",
+      "StackName": "amplify-koziproweb-dev-161712",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:155830630328:stack/amplify-koziproweb-dev-161712/d8f11f40-6ad2-11ec-8de3-0e05a84cabfd",
+      "AmplifyAppId": "d27y2up8re7bpf"
+    },
+    "categories": {
+      "auth": {
+        "koziproweb0e1f1889": {}
+      }
+    }
+  }
+}
