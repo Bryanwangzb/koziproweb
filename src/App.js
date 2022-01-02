@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <AmplifySignOut />
-        <h2>Kozipro Web</h2>
+        <h2>Kozipro Web 2022</h2>
       </header>
     </div>
   );
